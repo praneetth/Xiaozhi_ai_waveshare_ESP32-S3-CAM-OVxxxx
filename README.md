@@ -1,3 +1,49 @@
+# Xiaozhi AI – Waveshare ESP32‑S3‑CAM (OVxxxx)
+
+> Enhanced Xiaozhi AI voice + vision assistant on ESP32‑S3 with Waveshare camera module, upgraded camera quality, battery support, and extra features.
+
+## Overview
+
+This project extends the open-source **Xiaozhi AI** ESP32 chatbot framework with:
+
+- Higher-quality camera module (OVxxxx)
+- Battery power support with charging and power management
+- Improved audio and voice interaction
+- Optimized firmware for stability and runtime
+- Enhanced wiring and hardware design
+
+It turns a Waveshare ESP32‑S3‑CAM board into a portable, voice-activated AI companion that can see and respond to your environment using cloud-based large language models (Qwen, DeepSeek, etc.).
+
+## Key Features
+
+- 🎥 **Upgraded camera** – Higher resolution and better image quality for AI vision
+- 🔋 **Battery support** – Portable operation with Li-ion/LiPo battery and charging circuit
+- 🗣️ **Voice interaction** – Wake-word detection, real-time voice streaming with Xiaozhi AI
+- 🤖 **AI-powered** – MCP-based chatbot with cloud LLM backend
+- 📡 **Wi‑Fi + BLE** – ESP32‑S3 dual-core with stable cloud connection
+- ⚙️ **Optimized power** – Low-power modes and longer runtime
+- 🛠️ **Improved firmware** – Bug fixes, audio/camera optimizations, better stability
+
+## Hardware
+
+- **MCU**: Waveshare ESP32‑S3 board
+- **Camera**: OVxxxx module (upgraded)
+- **Audio**: Microphone + speaker (I2S)
+- **Battery**: Li-ion/LiPo with charging support
+- Optional: display (OLED/LCD) for status and AI role settings
+
+## What’s New (vs. Base Xiaozhi)
+
+1. Higher-quality camera sensor
+2. Battery power management and charging
+3. Improved audio pipeline
+4. More stable firmware
+5. Better power efficiency and runtime
+6. Enhanced documentation and wiring diagrams
+7. Optimized ESP32‑S3 camera init
+8. Clean hardware design and compact layout
+
+## Project Structure
 
 # An MCP-based Chatbot
 
