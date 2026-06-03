@@ -1,0 +1,1 @@
+# Xiaozhi_ai_waveshare_ESP32-S3-CAM-OVxxxx
