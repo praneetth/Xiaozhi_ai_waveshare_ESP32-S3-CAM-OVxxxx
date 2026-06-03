@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # An MCP-based Chatbot
 
 (English | [中文](README_zh.md) | [日本語](README_ja.md))
@@ -171,3 +172,6 @@ If you have any ideas or suggestions, please feel free to raise Issues or join o
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=78/xiaozhi-esp32&type=Date" />
  </picture>
 </a>
+=======
+# Xiaozhi_ai_waveshare_ESP32-S3-CAM-OVxxxx
+>>>>>>> 9008f6711f84c7ec87461fa050c17a1f165cab3c
